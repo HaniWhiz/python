@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honey Network | Data Center Solutions</title>
+    <style>
+        /* Basic styling to make the fake website look modern */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: #0f172a; /* Dark modern background */
+            color: #f8fafc;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        header {
+            text-align: center;
+            max-width: 800px;
+            padding: 40px 20px;
+        }
+
+        h1 {
+            font-size: 4rem;
+            margin-bottom: 10px;
+            /* Added a gradient to the title to match your buttons */
+            background: linear-gradient(45deg, #facc15, #f97316);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p {
+            font-size: 1.2rem;
+            color: #cbd5e1;
+            line-height: 1.6;
+            margin-bottom: 40px;
+        }
+
+        /* Adds a subtle hover effect to your inline-styled buttons */
+        a {
+            transition: transform 0.2s ease, opacity 0.2s ease;
+        }
+        
+        a:hover {
+            transform: scale(1.05);
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Honey Network</h1>
+        <p>
+            Next-Generation Hosting, Colocation, AI GPU Infrastructure,<br>
+            Cisco SDA & SD-WAN Powered Data Center Solutions
+        </p>
+
+        <div style="text-align:center;margin-top:30px;">
+            <a href="#" style="display:inline-block;padding:14px 28px;margin:8px;border-radius:50px;text-decoration:none;color:white;font-weight:bold;background:linear-gradient(45deg,#8b5cf6,#06b6d4);">GPU Cloud</a>
+
+            <a href="#" style="display:inline-block;padding:14px 28px;margin:8px;border-radius:50px;text-decoration:none;color:white;font-weight:bold;background:linear-gradient(45deg,#2563eb,#60a5fa);">Dedicated Servers</a>
+
+            <a href="#" style="display:inline-block;padding:14px 28px;margin:8px;border-radius:50px;text-decoration:none;color:white;font-weight:bold;background:linear-gradient(45deg,#22c55e,#14b8a6);">Colocation</a>
+
+            <a href="#" style="display:inline-block;padding:14px 28px;margin:8px;border-radius:50px;text-decoration:none;color:white;font-weight:bold;background:linear-gradient(45deg,#f97316,#facc15);">Cisco SDA</a>
+
+            <a href="#" style="display:inline-block;padding:14px 28px;margin:8px;border-radius:50px;text-decoration:none;color:white;font-weight:bold;background:linear-gradient(45deg,#ef4444,#ec4899);">Get Quote</a>
+        </div>
+    </header>
+
+</body>
+</html>
